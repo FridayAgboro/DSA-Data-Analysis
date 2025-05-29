@@ -23,5 +23,10 @@ Here I learnt the Excel work environment
  In Excel, a workbook is a spreadsheet program file that can contain one or more worksheets. It's essentially the container for all your data, formulas, and charts within a single file. It like a book where each "page" is a worksheet. 
 
  *The Worksheet**
- 
+The worksheet in excel is similar to a page in a book. The work area of the worksheet consist of Row and Columns. The Row are horizontal and are numbered (1,2,3,4.....to 1048576). The Columns are the vertical and are numbered by alphabelt (A,B,C,D,E....... to XFD).
+
+The intersection of the row and the column is call cell. So the cell is located by the row and column e.g. cell B5 meaning the the cell is on column B and Row 5. Every cell has its unique name in Excel. The combination of cell is called a range or array in Excel.
+
+![image](https://github.com/user-attachments/assets/ccae659d-c5fd-45b2-afde-6fef20b35075)
+
 
