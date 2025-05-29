@@ -11,6 +11,7 @@ My learning began by learning Micro Soft Excel; Understanding Excel Application,
 ### The Excel Environment
 Here I learnt the Excel work environment
 
+![EXCEL](https://github.com/user-attachments/assets/9e449321-4cef-46fa-a54c-2bc971664d51)
 
 #### Ribon
 - The Ribon:  The Ribon houses the Excel Tabs
