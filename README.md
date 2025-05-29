@@ -6,7 +6,7 @@ In this journey, I will be going through the entire circle that in involved in D
 My learning began by learning Micro Soft Excel; Understanding Excel Application, and why it is one of the preferred applications for Data Analysis globally.  
 
 ## Micro Soft Excel
-[Download Here]{https://microsoft-excel.en.softonic.com/}
+[Download Here]{https://www.microsoft.com/en-gb/microsoft-365/excel}
 
 ### The Excel Environment
 Here I learnt the Excel work environment
